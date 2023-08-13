@@ -9,7 +9,7 @@ Navigate to Project Folder and open index.html file
 
 - Enter Name
 - Upload Personal Profile Picture
-- User can capture photo from device camera during upload
+- User can capture photo from device camera as well and upload it
 
 ## Preview
 ![image](https://github.com/akshaygelani/Sarasiya-Pariwar-Invitation-Card/assets/40865534/f59bb258-9954-40e8-8569-a752ade8ddda)
