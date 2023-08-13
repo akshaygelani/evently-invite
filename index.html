@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<html lang="en">
+  <head>
+    <title>શ્રી સરસીયા - સુરત પટેલ પરિવાર</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="સરસીયા હું આવું છું Social Media કાર્ડ" />
+    <meta itemprop="name" content="શ્રી સરસીયા - સુરત પટેલ પરિવાર" />
+    <meta
+      itemprop="description"
+      content="સરસીયા હું આવું છું Social Media કાર્ડ"
+    />
+    <meta name="theme-color" content="#ffffff" />
+
+    <meta property="og:site_name" content="શ્રી સરસીયા - સુરત પટેલ પરિવાર" />
+    <meta property="og:title" content="શ્રી સરસીયા - સુરત પટેલ પરિવાર" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://fine-roll.surge.sh" />
+    <meta
+      property="og:description"
+      content="સરસીયા હું આવું છું Social Media કાર્ડ"
+    />
+    <meta property="og:image" content="files/icon.png" />
+
+    <link rel="apple-touch-icon" href="./files/icon.png" />
+    <link rel="icon" type="image/x-icon" href="./files/icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="./files/popin.css" rel="stylesheet" />
+    <link href="./files/Sacramento.css" rel="stylesheet" />
+    <link href="./files/Rasa.css" rel="stylesheet" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="./files/html2canvas.min.js"></script>
+    <script src="index.js" defer></script>
+  </head>
+  <body>
+    <main role="main" class="container">
+      <header>શ્રી સરસીયા - સુરત પટેલ પરિવાર</header>
+      <div class="subTitle">સરસીયા હું આવું છું Social Media કાર્ડ</div>
+      <section class="content">
+        <div class="controls">
+          <div class="flex flex-column">
+            <h3>Enter Name</h3>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              placeholder="Enter Your Name"
+            />
+          </div>
+          <div class="flex flex-column">
+            <h3>Upload Photo</h3>
+            <div class="flex flex-row">
+              <input type="file" id="photo" name="photo" placeholder="Upload" />
+            </div>
+          </div>
+          <button id="download" onclick="download()" style="display: none">
+            Download 🚀
+          </button>
+          <button id="reload" onclick="generateNewCard()" style="display: none">
+            Generate again✨
+          </button>
+        </div>
+        <div class="wrapper">
+          <div id="main-frame" class="main-frame">
+            <img
+              class="backgroundImage"
+              src="./files/Sarasiya Hu Aavu Chu Post.svg"
+            />
+            <div id="userPhoto" class="userPhoto"></div>
+            <div id="userName" class="userName">Your Name!</div>
+          </div>
+        </div>
+      </section>
+      <div class="flex-column footer">
+        <div class="developer">
+          <p>Made by:</p>
+          <p class="footer-name">Akshay Gelani</p>
+        </div>
+        <p class="copyright">No © copyright.</p>
+      </div>
+    </main>
+  </body>
+</html>
