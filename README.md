@@ -6,12 +6,13 @@
 
 - **Personalized Invitations**: Invitees can customize their cards by adding their name and profile picture.
 - **Live Photo Capture**: Users can take a live photo using their device camera.
+- **Mobile-Friendly**: The project is fully responsive and works seamlessly across mobile devices.
 - **Seamless Sharing**: Easily share invitations with others to confirm attendance.
 
 ## 🌐 Live Demo
 
 Check out the live example of this project used for an event:  
-👉 [Live Event Invitation](https://evently-invite.akshaygelani.me)
+👉 [Live Event Invitation](https://evently-invite.akshaygelani.me/)
 
 ## 🚀 How to Run the Project
 
@@ -36,6 +37,7 @@ Check out the live example of this project used for an event:
 
 - **Compatibility**: This project works best in modern browsers.
 - **Customization**: Feel free to modify the HTML and CSS files to suit your event's theme.
+- **Mobile-Friendly**: The design is responsive and optimized for mobile usage.
 
 ## 🤝 Contributions
 
