@@ -11,7 +11,7 @@
 ## 🌐 Live Demo
 
 Check out the live example of this project used for an event:  
-👉 [Live Event Invitation](#)
+👉 [Live Event Invitation](https://evently-invite.akshaygelani.me)
 
 ## 🚀 How to Run the Project
 
